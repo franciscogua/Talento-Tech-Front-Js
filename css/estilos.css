@@ -284,3 +284,43 @@ button:hover {
     color: #3d1717;
     font-style: italic;
 }
+
+/* Estilo para detalle */
+
+.detail-title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.detail-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+    margin: 2rem;
+}
+
+.detail-image {
+    width: 300px;
+    border-radius: 8px;
+}
+
+.detail-content {
+    font-family: 'Baskervville SC', serif;
+}
+
+.album-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.release-year {
+    color: #424242;
+    margin-bottom: 1rem;
+}
+
+.description-title {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
